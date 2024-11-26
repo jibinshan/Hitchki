@@ -19,7 +19,7 @@ const JoinUs = ({ }) => {
             Unforgettable Meal
           </h1>
           <p className="max-w-[450px] text-center font-light leading-[160%] text-[#C1B6A6]">
-            Sitting down and tucking into something delicious is one of life's simplest pleasures. It's well known that food feeds the body and soul - food can inspire us, comfort us, satisfy us, and make us feel good. Our menu is packed full of delicious dishes that have been thoughtfully designed by our talented chefs.
+            Sitting down and tucking into something delicious is one of life`s simplest pleasures. It`s well known that food feeds the body and soul - food can inspire us, comfort us, satisfy us, and make us feel good. Our menu is packed full of delicious dishes that have been thoughtfully designed by our talented chefs.
           </p>
           <Button
             className="group w-fit items-center gap-[1.19rem] font-semibold uppercase px-6 py-6"
