@@ -86,7 +86,8 @@ const Contact = ({ }) => {
                     Use the form on the right to send us a message.
                   </p>
                 </div>
-                <div className="flex items-center gap-3">
+
+                {/* <div className="flex items-center gap-3">
                   <Button
                     className="px-1 py-1 text-white hover:bg-transparent hover:text-white"
                     variant="ghost"
@@ -123,7 +124,9 @@ const Contact = ({ }) => {
                       <Icons.facebook />
                     </Link>
                   </Button>
-                </div>
+                </div> */}
+
+
               </div>
               <div className="flex flex-col gap-4">
                 <p className="text-lg font-semibold">Woring Hours</p>
